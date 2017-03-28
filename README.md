@@ -11,7 +11,7 @@ https://airflow.incubator.apache.org/concepts.html#operators
 
 This code uses the Python connector to Snowflake, see https://docs.snowflake.net/manuals/user-guide/python-connector.html
 
-#SnowflakeHook()
+# SnowflakeHook()
 
     Hook to communicate with Snowflake
 
