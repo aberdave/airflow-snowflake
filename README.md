@@ -61,3 +61,6 @@ This code uses the Python connector to Snowflake, see https://docs.snowflake.net
 
 This code has only been tested with Airflow version 1.7.1.3.
 This code is not (yet) incorporated into teh Airflow distribution.
+
+March 28 2017
+
